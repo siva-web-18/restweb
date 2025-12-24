@@ -1,0 +1,58 @@
+body {
+    height: 100vh;
+    background-image: url("back.png");
+    background-size: cover;
+    background-position: center;
+    color: grey;
+}
+
+.nav{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    background-color:grey;
+    padding: 10px 20px;
+    border-radius: 4px;
+}
+
+.nav{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.nav a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 10px 15px;
+    background-color:  grey;
+    color: WHITE;
+    font-size: 16px;
+}
+
+.contact {
+    padding: 100px 60px;
+}
+
+.contact h1 {
+    font-size: 80px;
+    color: grey;
+    margin-bottom: 30px;
+}
+
+.details h2 {
+    font-size: 26px;
+    margin-top: 20px;
+}
+
+.details p {
+    font-size: 18px;
+    line-height: 2;
+    margin-top: 5px;
+}
+.footer{
+    background-color: aliceblue;
+    text-align: center;
+    color:black;
+    
+}
